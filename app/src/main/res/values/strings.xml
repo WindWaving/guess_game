@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">guess_game</string>
+    <string name="wrong_string">Wrong Input!(It has to be an Integer from 1 to 9999)</string>
+    <string name="high">Ur guess is Higher</string>
+    <string name="low">Ur guess is Lower</string>
+    <string name="equal">You got it!</string>
+</resources>
